@@ -301,4 +301,3 @@ exit 0
 # ran. In bash : is equal to `true` and true can take infinite arguments
 # while still returning true. This turns these commands into no-ops so
 # when ran as a script, they're totally ignored.
-#
